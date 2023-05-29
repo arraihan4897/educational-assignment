@@ -1,0 +1,19 @@
+{"status":true,"data":{"total":8,
+
+"id":1,"name":"HTML","logo":"","questions":[
+    
+    {"options":["building  User","building Database","building User Data Flow","building  structure"],"id":"632800dfb0e109073fe05300","question":"<p>Html is mainly used&nbsp;for _______ (if needed, google it)</p>","correctAnswer":"building  structure"},
+    
+    {"options":["class  = “myClass”","Classname = “Class”","className = “myClass”","I don’t know"],"id":"632800dfb0e209073fe05301","question":"<p>How do  you declare a class called “myClass” in html?</p>","correctAnswer":"className = “myClass”"},
+    
+    {"options":["HyperText Markup Language","HyperMarkup Language","HyperText Marn stuck Language","NONE of the above"],"id":"632800dfb0e309073fe05302","question":"<p>What does the abbreviation HTML stand for??</p>","correctAnswer":"HyperText Markup Language"},
+    
+    {"options":["1","2","3","6"],"id":"632800dfb0e409073fe05303","question":"<p>How many sizes of headers are available in HTML by default?</p>","correctAnswer":"6"},
+    
+    {"options":["h1","h2","h3","h6"],"id":"632800dfb0e509073fe05304","question":"<p>What is the smallest header in HTML by default?</p>","correctAnswer":"h6"},
+    
+    {"options":["ol","ul","li","xl"],"id":"632800dfb0e609073fe05305","question":"<p>How to create an ordered list in HTML?</p>","correctAnswer":"ol"},
+    
+    {"options":[".xml",".html",".dom",".id"],"id":"632800dfb0e709073fe05306","question":"<p>HTML files are saved by default with the extension?</p>","correctAnswer":".html"},
+    
+    {"options":["id","class","div","type"],"id":"632800dfb0e809073fe05308","question":"<p>Which attribute is used to provide a unique name to an HTML element?</p>","correctAnswer":"id"}]}}
